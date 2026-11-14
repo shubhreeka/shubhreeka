@@ -1,6 +1,7 @@
 # Hi, I'm Shubhreeka Saxena 👋
 
 **AI/ML Engineer · Quantum Computing · Researcher**
+
 Final-year B.Tech (Artificial Intelligence & Machine Learning) student at **VIPS-TC, GGSIPU, Delhi** · CGPA **9.24**
 
 I build end-to-end AI systems, from research and model training to APIs and working apps. My work covers
@@ -8,7 +9,9 @@ I build end-to-end AI systems, from research and model training to APIs and work
 I have **2 IEEE publications** and have completed **4 internships**, at NIELIT, DMRC, Kreate Technologies and a Quantum Research Centre.
 
 🔭 Currently: **AIML Intern at NIELIT**, building GenAI, NLP and computer-vision prototypes for government and education use
+
 🎯 Looking for: **full-time roles in AI/ML engineering, GenAI and backend development (2027)**
+
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shubhreeka-saxena/) · saxenashubhreeka@gmail.com
 
 ---
@@ -40,12 +43,12 @@ underwater plastic detection (IEEE), a virtual AI teacher (NIELIT) and more.</su
 
 ## 🛠️ Tech stack
 
-**Languages:** Python · C · SQL · JavaScript · HTML/CSS
-**ML / DL:** PyTorch · TensorFlow · Keras · scikit-learn · XGBoost · OpenCV · Hugging Face · NLTK
-**GenAI:** Stable Diffusion (SDXL-Turbo) · LoRA fine-tuning · LLM APIs (Gemini)
-**Quantum:** Qiskit · PennyLane · QAOA · QUBO
-**Optimisation:** PSO · GWO · Firefly · GA · WOA
-**Backend:** Flask · FastAPI · PostgreSQL · Streamlit
+**Languages:** Python · C · SQL · JavaScript · HTML/CSS  
+**ML / DL:** PyTorch · TensorFlow · Keras · scikit-learn · XGBoost · OpenCV · Hugging Face · NLTK  
+**GenAI:** Stable Diffusion (SDXL-Turbo) · LoRA fine-tuning · LLM APIs (Gemini)  
+**Quantum:** Qiskit · PennyLane · QAOA · QUBO  
+**Optimisation:** PSO · GWO · Firefly · GA · WOA  
+**Backend:** Flask · FastAPI · PostgreSQL · Streamlit  
 **Data:** Pandas · NumPy · SciPy · Matplotlib · Seaborn
 
 ## 🏆 Achievements
