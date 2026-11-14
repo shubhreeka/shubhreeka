@@ -22,9 +22,10 @@ I have **2 IEEE publications** and have completed **4 internships**, at NIELIT, 
 |---|---|---|
 | ⚛️ [**Q-Route**](https://github.com/shubhreeka/Q-Route) | Solves drone-delivery routing (TSP) with **QAOA** on simulators and **real IBM Quantum hardware**; studies noise and circuit depth | Qiskit · QUBO · Flask · Leaflet.js |
 | 🎨 [**ChromaAI**](https://github.com/shubhreeka/ChromaAI) | Colorizes grayscale photos; **benchmarks 5 architectures**, and the ResNet18 U-Net wins (PSNR 24.3 dB, SSIM 0.924) | PyTorch · U-Net · GANs · Streamlit |
+| 🚇 [**DMRC GenAI Banner Generator**](https://github.com/shubhreeka/DMRC-GenAI-Banner-Generator) | Built at **Delhi Metro**: a custom **LoRA** on SDXL-Turbo generates on-brand banners **fully offline on CPU** | Diffusers · LoRA · BLIP · Flask |
+| 📡 [**EM Field Mode Classifier**](https://github.com/shubhreeka/EM-Field-Mode-Classifier) | Recognises **44 waveguide TE/TM modes** from field images (95.5% val. accuracy) with a synthetic-data pipeline | TensorFlow · MobileNetV2 · Flask |
 
-<sub>More projects are being added: generative AI with LoRA fine-tuning (DMRC), electromagnetic field-mode classification,
-underwater plastic detection (IEEE), a virtual AI teacher (NIELIT) and more.</sub>
+<sub>More projects are being added: underwater plastic detection (IEEE), a virtual AI teacher (NIELIT) and more.</sub>
 
 ## 📄 Research & publications
 
