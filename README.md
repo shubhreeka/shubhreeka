@@ -25,7 +25,14 @@ I have **2 IEEE publications** and have completed **4 internships**, at NIELIT, 
 | 🚇 [**DMRC GenAI Banner Generator**](https://github.com/shubhreeka/DMRC-GenAI-Banner-Generator) | Built at **Delhi Metro**: a custom **LoRA** on SDXL-Turbo generates on-brand banners **fully offline on CPU** | Diffusers · LoRA · BLIP · Flask |
 | 📡 [**EM Field Mode Classifier**](https://github.com/shubhreeka/EM-Field-Mode-Classifier) | Recognises **44 waveguide TE/TM modes** from field images (95.5% val. accuracy) with a synthetic-data pipeline | TensorFlow · MobileNetV2 · Flask |
 
-<sub>More projects are being added: underwater plastic detection (IEEE), a virtual AI teacher (NIELIT) and more.</sub>
+### More projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| 🌊 [**Underwater Plastic Detection**](https://github.com/shubhreeka/Underwater-Plastic-Detection) | Detects and boxes plastic waste in underwater images; companion to my **IEEE ICCCA 2025** paper | YOLO · Roboflow · Flask |
+| ✍️ [**V-HAND Virtual Teacher**](https://github.com/shubhreeka/V-HAND-Virtual-Teacher) | Built at **NIELIT**: turns a teacher's **speech into handwriting**, with slides, an AI virtual background and lecture recording | Web Speech API · MediaPipe · Flask |
+| 📈 [**Nonlinear Regression Framework**](https://github.com/shubhreeka/Nonlinear-Regression-Framework) | Fits and ranks **24 nonlinear growth models** on crop data; the best reaches R² 0.92 | SciPy · pandas · Matplotlib |
+| 🏦 [**Loan Approval Predictor**](https://github.com/shubhreeka/Loan-Approval-Predictor) | Hybrid **bank policy rules + XGBoost** loan decisions (ROC-AUC 0.998) | XGBoost · scikit-learn · Flask |
 
 ## 📄 Research & publications
 
