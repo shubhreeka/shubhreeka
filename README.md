@@ -36,6 +36,15 @@ I have **2 IEEE publications** and have completed **4 internships**, at NIELIT, 
 | 📈 [**Nonlinear Regression Framework**](https://github.com/shubhreeka/Nonlinear-Regression-Framework) | Fits and ranks **24 nonlinear growth models** on crop data; the best reaches R² 0.92 | SciPy · pandas · Matplotlib |
 | 🏦 [**Loan Approval Predictor**](https://github.com/shubhreeka/Loan-Approval-Predictor) | Hybrid **bank policy rules + XGBoost** loan decisions (ROC-AUC 0.998) | XGBoost · scikit-learn · Flask |
 
+### Web projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| 🌟 [**CelebTwin**](https://github.com/shubhreeka/CelebTwin) | Finds your Bollywood look-alike with a Roboflow-hosted image classifier | JavaScript · Roboflow |
+| 🍕 [**FLAVOR**](https://github.com/shubhreeka/FLAVOR-Recipe-App) | Ingredients-to-recipes search and a **voice recipe assistant** | Spoonacular API · Web Speech API |
+| 🎬 [**MindStream**](https://github.com/shubhreeka/MindStream-Wellness-App) | Mood quiz with live movie picks, wellness chat and meditation library | TMDB API · JavaScript |
+| 🏷️ [**BannerBot**](https://github.com/shubhreeka/BannerBot) | Browser banner maker with PNG export, built for Google's **Gen AI Exchange Hackathon** | JavaScript · html2canvas |
+
 ## 📄 Research & publications
 
 - **Deep Neural Network Based Underwater Plastic Waste and Trash Detection for Marine Conservation**, *IEEE ICCCA 2025* (first author)
